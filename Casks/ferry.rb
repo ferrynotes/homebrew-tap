@@ -1,6 +1,6 @@
 cask "ferry" do
-  version "1.0.8"
-  sha256 "b6dafcb9a5c66c9607f20d071befe2ad14146bc5351bc50991f9f09ba6e5536d"
+  version "1.0.9"
+  sha256 "3f3ca24f04ebfdd7e829dee46d0f217f772cab6f92fa4eb5eb502efc4c047283"
 
   url "https://download.ferrynotes.com/mac/Ferry_#{version}_universal.dmg"
   name "Ferry"
